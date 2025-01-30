@@ -1,4 +1,4 @@
-import { IConfigService } from './config.interface';
+import IConfigService from './config.interface';
 
 export class configService implements IConfigService {
 
